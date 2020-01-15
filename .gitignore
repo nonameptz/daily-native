@@ -1,0 +1,7 @@
+node_modules/**/*
+.expo/**/*
+daily-native_dist.p12
+daily-native_push.p12
+daily-native.mobileprovision
+.idea/
+app/
